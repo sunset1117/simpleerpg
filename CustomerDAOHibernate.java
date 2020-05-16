@@ -4,6 +4,7 @@ import java.util.Date;
 
 import org.hibernate.Session;
 //originalVersion1.0
+//alphaTest
 import model.CustomerBean;
 import model.CustomerDAO;
 import model.hibernate.HibernateUtil;
